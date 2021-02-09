@@ -1,0 +1,16 @@
+D:\Projects\Code\Вадим\SocketChat\Server\bin\Debug\net5.0\Server.exe
+D:\Projects\Code\Вадим\SocketChat\Server\bin\Debug\net5.0\Server.deps.json
+D:\Projects\Code\Вадим\SocketChat\Server\bin\Debug\net5.0\Server.runtimeconfig.json
+D:\Projects\Code\Вадим\SocketChat\Server\bin\Debug\net5.0\Server.runtimeconfig.dev.json
+D:\Projects\Code\Вадим\SocketChat\Server\bin\Debug\net5.0\Server.dll
+D:\Projects\Code\Вадим\SocketChat\Server\bin\Debug\net5.0\ref\Server.dll
+D:\Projects\Code\Вадим\SocketChat\Server\bin\Debug\net5.0\Server.pdb
+D:\Projects\Code\Вадим\SocketChat\Server\obj\Debug\net5.0\Server.csprojAssemblyReference.cache
+D:\Projects\Code\Вадим\SocketChat\Server\obj\Debug\net5.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Code\Вадим\SocketChat\Server\obj\Debug\net5.0\Server.AssemblyInfoInputs.cache
+D:\Projects\Code\Вадим\SocketChat\Server\obj\Debug\net5.0\Server.AssemblyInfo.cs
+D:\Projects\Code\Вадим\SocketChat\Server\obj\Debug\net5.0\Server.csproj.CoreCompileInputs.cache
+D:\Projects\Code\Вадим\SocketChat\Server\obj\Debug\net5.0\Server.dll
+D:\Projects\Code\Вадим\SocketChat\Server\obj\Debug\net5.0\ref\Server.dll
+D:\Projects\Code\Вадим\SocketChat\Server\obj\Debug\net5.0\Server.pdb
+D:\Projects\Code\Вадим\SocketChat\Server\obj\Debug\net5.0\Server.genruntimeconfig.cache

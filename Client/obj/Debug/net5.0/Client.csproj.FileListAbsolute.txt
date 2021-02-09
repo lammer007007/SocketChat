@@ -1,0 +1,16 @@
+D:\Projects\Code\Вадим\SocketChat\Client\bin\Debug\net5.0\Client.exe
+D:\Projects\Code\Вадим\SocketChat\Client\bin\Debug\net5.0\Client.deps.json
+D:\Projects\Code\Вадим\SocketChat\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+D:\Projects\Code\Вадим\SocketChat\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+D:\Projects\Code\Вадим\SocketChat\Client\bin\Debug\net5.0\Client.dll
+D:\Projects\Code\Вадим\SocketChat\Client\bin\Debug\net5.0\ref\Client.dll
+D:\Projects\Code\Вадим\SocketChat\Client\bin\Debug\net5.0\Client.pdb
+D:\Projects\Code\Вадим\SocketChat\Client\obj\Debug\net5.0\Client.csprojAssemblyReference.cache
+D:\Projects\Code\Вадим\SocketChat\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Code\Вадим\SocketChat\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+D:\Projects\Code\Вадим\SocketChat\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+D:\Projects\Code\Вадим\SocketChat\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+D:\Projects\Code\Вадим\SocketChat\Client\obj\Debug\net5.0\Client.dll
+D:\Projects\Code\Вадим\SocketChat\Client\obj\Debug\net5.0\ref\Client.dll
+D:\Projects\Code\Вадим\SocketChat\Client\obj\Debug\net5.0\Client.pdb
+D:\Projects\Code\Вадим\SocketChat\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache
